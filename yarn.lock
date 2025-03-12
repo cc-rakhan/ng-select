@@ -184,10 +184,10 @@
   dependencies:
     "@angular-eslint/bundled-angular-compiler" "19.0.2"
 
-"@angular/animations@^19.1.5":
-  version "19.1.5"
-  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-19.1.5.tgz#bfa9b412e58459c9e787f2db03d3b364ea037718"
-  integrity sha512-jRZgLdSjr94EpBFIyCUZM7YKBi5TO2+J8PKmz7IdNrYNuUaGfy8k816/57Vgmsb18dnpA2Kf7R2AlOpNcDcsOA==
+"@angular/animations@^19.1.6":
+  version "19.2.1"
+  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-19.2.1.tgz#d826cfc64b2841eecfe1f8b6d0d11c5e1ace7d1a"
+  integrity sha512-I67XYXBic9bM+yfce6Dqa950TsrEWB6uwSB2l6eIg3Byp48yJxQYbyjvjDbMXPieU2Bzo8FYVSD+lc8cF4+L6A==
   dependencies:
     tslib "^2.3.0"
 
